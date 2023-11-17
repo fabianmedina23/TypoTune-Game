@@ -25,31 +25,20 @@ const message = document.querySelector('#message');
 const seconds = document.querySelector('#seconds');
 
 const words = [
-    'hello',
-    'help',
-    'instagram',
-    'shoebill',
-    'coding',
-    'javascript',
-    'brooklyn',
-    'minecraft',
-    'help',
-    'what',
-    'hey',
-    'well',
-    'yellowgushers',
-    'xfqbe',
-    'hi',
-    'query',
-    'html',
-    'photoshop',
-    'yourmom',
-    'granola',
-    'iphone',
-    'yes',
-    'obama',
-    'brim',
-    'yankee'
+    'Mitski',
+    'Radiohead',
+    'Jeff Buckley',
+    'The Sundays',
+    'King Krule',
+    'The Beatles',
+    'Frank Ocean',
+    'The Smiths',
+    'Blur',
+    'The Cranberries',
+    'Alex G',
+    'Duster',
+    'Lamp',
+    'Beach House'
 ];
 
 // Initialize Game
