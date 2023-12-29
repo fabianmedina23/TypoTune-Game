@@ -17,10 +17,3 @@ TypoTune is a typing challenge game where players have to type the given word wi
 2. Choose the difficulty level.
 3. Start typing the displayed artist's name within the specified time.
 4. Score points for each correctly typed word.
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
