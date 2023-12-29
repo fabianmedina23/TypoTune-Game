@@ -4,15 +4,15 @@
 
 TypoTune is a typing challenge game where players have to type the given word within a specified time to score points. The game features a variety of artists' names as words for players to type.
 
-
-<img src="typotunedemo.gif" width="500" height="600" />
-
 ## Features
 
 - **Word Challenge:** Type each artist's name within the given amount of time to score.
 - **Difficulty Levels:** Choose from easy, medium, or hard difficulty levels.
 - **Scoring:** Each correct word typed scores a point.
 - **Instructions:** Clear instructions provided for players.
+
+<img src="typotunedemo.gif" width="500" height="600" />
+
 
 ## How to Play
 
